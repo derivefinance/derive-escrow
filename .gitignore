@@ -1,0 +1,3 @@
+build/*
+contracts/flattened.sol
+node_modules
