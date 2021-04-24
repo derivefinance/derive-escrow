@@ -1,9 +1,6 @@
 # derive-escrow
 The smart contract in this repository are used to escrow the Derive DAO Token (DRV).
 
-There are two types of escrow contracts in this repository.
-
-
 ### DeriveEscrow.sol
 This contract is used to escrow DRV destined to private investors and public token sale.
 
